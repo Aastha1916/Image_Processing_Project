@@ -34,3 +34,7 @@ The program is menu-based with the following top-level features:
     import matplotlib.pyplot as plt
     from skimage.util import invert
 ```
+
+**NOTE:
+* This Program runs for JPG Images only.
+* Keep the input images and Code in the Same Folder.
