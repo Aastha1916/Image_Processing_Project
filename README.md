@@ -29,12 +29,12 @@ The program is menu-based with the following top-level features:
 ## Required Libraries
 
 ```bash
-    from skimage import io, color
-    from skimage.color import rgb2gray
+    from skimage import io
     import matplotlib.pyplot as plt
-    from skimage.util import invert
+    import numpy as np
 ```
 
 **NOTE:
-* This Program runs for JPG Images only.
+* This Program runs for JPG Images only as others may have 4D.
 * Keep the input images and Code in the Same Folder.
+* You can load only Those Images which are present in the dataset.
