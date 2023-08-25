@@ -1,7 +1,6 @@
 # Image Processing and Manipulations
 
-This project is for basic image manipulation and processing using the core scientific module NumPy. 
-
+This project emerged from the Data Science Training Python Module, serving as an introductory exploration of image processing. Leveraging the powerful NumPy module in Python, it offers a hands-on experience in performing essential image manipulations. 
 
 ## Features
 
